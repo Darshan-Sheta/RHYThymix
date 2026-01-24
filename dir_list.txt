@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 62FF-FEEC
+
+ Directory of C:\Users\DELL\Downloads\RHYThymix\RHYThymix
+
+01/24/2026  11:09 PM    <DIR>          .
+01/24/2026  10:46 PM    <DIR>          ..
+01/24/2026  11:08 PM                 0 add_log.txt
+01/24/2026  10:51 PM    <DIR>          backend
+01/24/2026  11:09 PM                 0 dir_list.txt
+01/24/2026  11:09 PM                28 email.txt
+01/24/2026  10:50 PM    <DIR>          frontend
+01/24/2026  11:09 PM                12 name.txt
+01/24/2026  11:08 PM               422 status_log.txt
+               5 File(s)            462 bytes
+               4 Dir(s)   2,498,625,536 bytes free
